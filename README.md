@@ -1,1 +1,1 @@
-This is my first README in my first repo.
+This is Abhimanyu's first Git project!
